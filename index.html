@@ -1,0 +1,33 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/three-spritetext"></script>
+
+  <script src="https://unpkg.com/3d-force-graph"></script>
+  <!-- <script src="../../dist/3d-force-graph.js"></script> --> -->
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script>
+    const Graph = ForceGraph3D()
+	  .backgroundColor('#FFFFFF')
+      (document.getElementById('3d-graph'))
+        .jsonUrl('data.json')
+        .linkColor(link => link.color ? 'red' : 'black' )
+        .nodeAutoColorBy('group')
+        .nodeThreeObject(node => {
+          const sprite = new SpriteText(node.id);
+          sprite.material.depthWrite = true; // make sprite background transparent
+          sprite.color = node.color;
+          sprite.textHeight = 8;
+          return sprite;
+        });
+
+    // Spread nodes a little wider
+    Graph.d3Force('charge').strength(-120);
+
+  </script>
+</body>
