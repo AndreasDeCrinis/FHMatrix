@@ -1,5 +1,5 @@
 $matrix = (get-content $PSScriptRoot\matrix2.csv) | ConvertFrom-Csv -Delimiter ';'
-$header = ((Get-Content -Path $PSScriptRoot\matrix2.csv | select -First 1) -split ";").Trim("`"")
+$header = ((Get-Content -Path $PSScriptRoot\matrix2.csv | Select-Object -First 1) -split ";").Trim("`"")
 
 $output = @()
 $id = 0
@@ -11,20 +11,23 @@ foreach ($m in $matrix) {
     if ($m.LV.ToLower() -match "semester" -or $m.LV -eq "") {
         continue
     }
-    $indexFirstSpace = $m.LV.IndexOf(' ')[0] + 1
-    $length = $m.LV.Length
+    # $indexFirstSpace = $m.LV.IndexOf(' ')[0] + 1
+    # $length = $m.LV.Length
     $lvs = @{
-        LV           = $m.LV.Substring($indexFirstSpace, $length - $indexFirstSpace)
+        LV           = $m.LV#.Substring($indexFirstSpace, $length - $indexFirstSpace)
         id           = $id
         dependencies = @()
-        group=$m.LV.Substring(0,$indexFirstSpace-1)
+        group=$m.LV#.Substring(0,$indexFirstSpace-1)
     }
     foreach ($h in $header) {
         if ($h -eq "LV") { continue }
 
-        $slimIndexFirstSpace = $h.IndexOf(' ')[0] + 1
-        $slimHeader = $h.Substring($slimIndexFirstSpace, $h.Length - $slimIndexFirstSpace)
+        # $slimIndexFirstSpace = $h.IndexOf(' ')[0] + 1
+        $slimHeader = $h#.Substring($slimIndexFirstSpace, $h.Length - $slimIndexFirstSpace)
 
+        if($slimHeader.Contains("Laufendes Berufspraktikum im Unternehmen")){
+            $sdf
+        }
         if ($m.$h -eq "x") {
             $lvs.dependencies += $slimHeader
         }
@@ -36,16 +39,20 @@ foreach ($m in $matrix) {
 $nodes = @()
 $edges = @()
 foreach ($out in $output) {
-    # { id: 0, label: "Berufspraktikum", group: 1 },
     $group = $out.group.Split('.')[0]
-    # $nodes += "{ id: $($out.id), label: `"$($out.LV)`", group: $group},"
     $nodes += @{
         id    = $out.LV
         group = $group
     }
 
     foreach ($dependency in $out.dependencies) {
-        $dep = $output | where { $_.LV -eq $dependency }
+        $dep = $output | Where-Object { $_.LV -eq $dependency }
+        if ($dep -is [array]){$dep = $dep[0]}
+
+        if($group -eq "2" -and $dep.LV.Contains("Laufendes Berufspraktikum im Unternehmen")){
+            $sdf
+        }
+
         $edges += @{
             source = $out.LV
             target = $dep.LV
@@ -54,15 +61,12 @@ foreach ($out in $output) {
     }
 }
 
-# ((Get-Content -path $PSScriptRoot\index_template.html -Raw) -replace '<nodes>',$nodes) | Set-Content -Path $PSScriptRoot\index.html
-# ((Get-Content -path $PSScriptRoot\index.html -Raw) -replace '<edges>',$edges) | Set-Content -Path $PSScriptRoot\index.html
-
 $outputObject = @{
     nodes = $nodes
     links = $edges
 }
-# $outputObject | ConvertTo-Json | Out-File $PSScriptRoot\data.json
+$outputObject | ConvertTo-Json | Out-File $PSScriptRoot\data.json
 
-$tag = "v10"
+$tag = "v17"
 docker build --tag container.kandreas.work/matrix:$tag $PSScriptRoot
 docker push container.kandreas.work/matrix:$tag

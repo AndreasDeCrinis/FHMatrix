@@ -1,0 +1,1543 @@
+{
+  "nodes": [
+    {
+      "id": "1.1 Laufendes Berufspraktikum im Unternehmen",
+      "group": "1"
+    },
+    {
+      "id": "1.2 Buchhaltung und Bilanzierung",
+      "group": "1"
+    },
+    {
+      "id": "1.3 Grundlagen des Managements",
+      "group": "1"
+    },
+    {
+      "id": "1.4 Grundlagen der Informatik",
+      "group": "1"
+    },
+    {
+      "id": "1.5 Web Grundlagen",
+      "group": "1"
+    },
+    {
+      "id": "1.6 Kommunikation 1",
+      "group": "1"
+    },
+    {
+      "id": "1.7 Mathematik 1",
+      "group": "1"
+    },
+    {
+      "id": "1.8 Programmieren 1",
+      "group": "1"
+    },
+    {
+      "id": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "group": "1"
+    },
+    {
+      "id": "1.10 Projektmanagement",
+      "group": "1"
+    },
+    {
+      "id": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "group": "2"
+    },
+    {
+      "id": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "group": "2"
+    },
+    {
+      "id": "2.3 Laufendes Berufspraktikum im Unternehmen",
+      "group": "2"
+    },
+    {
+      "id": "2.4 Seminar zum Berufspraktikum",
+      "group": "2"
+    },
+    {
+      "id": "2.5 Kostenrechnung",
+      "group": "2"
+    },
+    {
+      "id": "2.6 Betriebssysteme",
+      "group": "2"
+    },
+    {
+      "id": "2.7 Netzwerktechnik 1",
+      "group": "2"
+    },
+    {
+      "id": "2.8 Selbstorganisation und Zeitmanagement",
+      "group": "2"
+    },
+    {
+      "id": "2.9 Mathematik 2",
+      "group": "2"
+    },
+    {
+      "id": "2.10 Programmieren 2",
+      "group": "2"
+    },
+    {
+      "id": "2.11 IT-Projektmanagement",
+      "group": "2"
+    },
+    {
+      "id": "3.1 Laufendes Berufspraktikum im Unternehmen",
+      "group": "3"
+    },
+    {
+      "id": "3.2 Datenbanken 1",
+      "group": "3"
+    },
+    {
+      "id": "3.3 Netzwerktechnik 2",
+      "group": "3"
+    },
+    {
+      "id": "3.4 General English",
+      "group": "3"
+    },
+    {
+      "id": "3.5 Präsentationstechniken",
+      "group": "3"
+    },
+    {
+      "id": "3.6 Begleitendes Projekt 1",
+      "group": "3"
+    },
+    {
+      "id": "3.7 Digitale Geschäftsmodelle 1",
+      "group": "3"
+    },
+    {
+      "id": "3.8 Prozessmanagement 1",
+      "group": "3"
+    },
+    {
+      "id": "3.9 Software Engineering",
+      "group": "3"
+    },
+    {
+      "id": "3.10 Wirtschaftsstatistik",
+      "group": "3"
+    },
+    {
+      "id": "3.11 Controlling",
+      "group": "3"
+    },
+    {
+      "id": "4.1 Laufendes Berufspraktikum im Unternehmen",
+      "group": "4"
+    },
+    {
+      "id": "4.2 Datenbanken 2",
+      "group": "4"
+    },
+    {
+      "id": "4.3 Markup Languages",
+      "group": "4"
+    },
+    {
+      "id": "4.4 Informationssysteme 1",
+      "group": "4"
+    },
+    {
+      "id": "4.5 Digitale Geschäftsmodelle 2",
+      "group": "4"
+    },
+    {
+      "id": "4.6 Business English 1",
+      "group": "4"
+    },
+    {
+      "id": "4.7 Prozessmanagement 2",
+      "group": "4"
+    },
+    {
+      "id": "4.8 Requirements Engineering",
+      "group": "4"
+    },
+    {
+      "id": "4.9 Begleitendes Projekt 2",
+      "group": "4"
+    },
+    {
+      "id": "4.10 Marketing",
+      "group": "4"
+    },
+    {
+      "id": "4.11 Wissenschaftliches Arbeiten",
+      "group": "4"
+    },
+    {
+      "id": "5.1 Laufendes Berufspraktikum im Unternehmen",
+      "group": "5"
+    },
+    {
+      "id": "5.2 Teamtraining",
+      "group": "5"
+    },
+    {
+      "id": "5.3 Business English 2",
+      "group": "5"
+    },
+    {
+      "id": "5.4 Informationssysteme 2",
+      "group": "5"
+    },
+    {
+      "id": "5.5 Qualitätsmanagement",
+      "group": "5"
+    },
+    {
+      "id": "5.6 Kryptographie",
+      "group": "5"
+    },
+    {
+      "id": "5.7 Identity Management",
+      "group": "5"
+    },
+    {
+      "id": "5.8 Servicebasierte Systeme",
+      "group": "5"
+    },
+    {
+      "id": "5.9 Dienstleistungsmanagement (W2)",
+      "group": "5"
+    },
+    {
+      "id": "5.10 IT-Infrastructure Management (W1)",
+      "group": "5"
+    },
+    {
+      "id": "5.11 Software Design (T1)",
+      "group": "5"
+    },
+    {
+      "id": "5.12 Webentwicklung (T2)",
+      "group": "5"
+    },
+    {
+      "id": "5.13 Bachelorarbeit 1",
+      "group": "5"
+    },
+    {
+      "id": "6.1 Seminar zum Berufspraktikum",
+      "group": "6"
+    },
+    {
+      "id": "6.2 Laufendes Berufspraktikum im Unternehmen",
+      "group": "6"
+    },
+    {
+      "id": "6.3 Professional Meetings in English",
+      "group": "6"
+    },
+    {
+      "id": "6.4 IT-Service Management",
+      "group": "6"
+    },
+    {
+      "id": "6.5 Fallstudien der Wirtschaftsinformatik",
+      "group": "6"
+    },
+    {
+      "id": "6.6 Grundlagen Mobile Computing",
+      "group": "6"
+    },
+    {
+      "id": "6.7 Wirtschafts- und IT-Recht",
+      "group": "6"
+    },
+    {
+      "id": "6.8 Supply Chain Management (W1)",
+      "group": "6"
+    },
+    {
+      "id": "6.9 Sicherheit von Webapplikationen (T2)",
+      "group": "6"
+    },
+    {
+      "id": "6.10 IT-Sales (W2)",
+      "group": "6"
+    },
+    {
+      "id": "6.11 Cloud Computing (T1)",
+      "group": "6"
+    },
+    {
+      "id": "6.12 Bachelorarbeit 2",
+      "group": "6"
+    }
+  ],
+  "links": [
+    {
+      "value": 1,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "1.1 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 1,
+      "target": "2.5 Kostenrechnung",
+      "source": "1.2 Buchhaltung und Bilanzierung"
+    },
+    {
+      "value": 1,
+      "target": "3.11 Controlling",
+      "source": "1.2 Buchhaltung und Bilanzierung"
+    },
+    {
+      "value": 1,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "1.3 Grundlagen des Managements"
+    },
+    {
+      "value": 1,
+      "target": "1.10 Projektmanagement",
+      "source": "1.3 Grundlagen des Managements"
+    },
+    {
+      "value": 1,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "1.3 Grundlagen des Managements"
+    },
+    {
+      "value": 1,
+      "target": "3.11 Controlling",
+      "source": "1.3 Grundlagen des Managements"
+    },
+    {
+      "value": 1,
+      "target": "1.7 Mathematik 1",
+      "source": "1.4 Grundlagen der Informatik"
+    },
+    {
+      "value": 1,
+      "target": "1.8 Programmieren 1",
+      "source": "1.4 Grundlagen der Informatik"
+    },
+    {
+      "value": 1,
+      "target": "2.6 Betriebssysteme",
+      "source": "1.4 Grundlagen der Informatik"
+    },
+    {
+      "value": 1,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "1.4 Grundlagen der Informatik"
+    },
+    {
+      "value": 1,
+      "target": "2.10 Programmieren 2",
+      "source": "1.4 Grundlagen der Informatik"
+    },
+    {
+      "value": 1,
+      "target": "1.8 Programmieren 1",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "2.6 Betriebssysteme",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "2.10 Programmieren 2",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "3.2 Datenbanken 1",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "1.5 Web Grundlagen"
+    },
+    {
+      "value": 1,
+      "target": "1.10 Projektmanagement",
+      "source": "1.6 Kommunikation 1"
+    },
+    {
+      "value": 1,
+      "target": "3.4 General English",
+      "source": "1.6 Kommunikation 1"
+    },
+    {
+      "value": 1,
+      "target": "3.5 Präsentationstechniken",
+      "source": "1.6 Kommunikation 1"
+    },
+    {
+      "value": 1,
+      "target": "4.6 Business English 1",
+      "source": "1.6 Kommunikation 1"
+    },
+    {
+      "value": 1,
+      "target": "5.3 Business English 2",
+      "source": "1.6 Kommunikation 1"
+    },
+    {
+      "value": 1,
+      "target": "1.4 Grundlagen der Informatik",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "1.8 Programmieren 1",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "2.9 Mathematik 2",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "2.10 Programmieren 2",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "4.2 Datenbanken 2",
+      "source": "1.7 Mathematik 1"
+    },
+    {
+      "value": 1,
+      "target": "1.4 Grundlagen der Informatik",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "1.5 Web Grundlagen",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "1.7 Mathematik 1",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "2.10 Programmieren 2",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "1.8 Programmieren 1"
+    },
+    {
+      "value": 1,
+      "target": "1.2 Buchhaltung und Bilanzierung",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "1.10 Projektmanagement",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "3.9 Software Engineering",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "4.4 Informationssysteme 1",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "4.8 Requirements Engineering",
+      "source": "1.9 Grundlagen der Wirtschaftsinformatik"
+    },
+    {
+      "value": 1,
+      "target": "1.2 Buchhaltung und Bilanzierung",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "1.6 Kommunikation 1",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "3.9 Software Engineering",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 1,
+      "target": "3.10 Wirtschaftsstatistik",
+      "source": "1.10 Projektmanagement"
+    },
+    {
+      "value": 2,
+      "target": "1.8 Programmieren 1",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "2.6 Betriebssysteme",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "2.10 Programmieren 2",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "5.6 Kryptographie",
+      "source": "2.1 Algorithmen und Datenstrukturen - Übung"
+    },
+    {
+      "value": 2,
+      "target": "1.8 Programmieren 1",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "2.6 Betriebssysteme",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "2.10 Programmieren 2",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "5.6 Kryptographie",
+      "source": "2.2 Algorithmen und Datenstrukturen - Vorlesung"
+    },
+    {
+      "value": 2,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "2.3 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 2,
+      "target": "2.3 Laufendes Berufspraktikum im Unternehmen",
+      "source": "2.4 Seminar zum Berufspraktikum"
+    },
+    {
+      "value": 2,
+      "target": "3.1 Laufendes Berufspraktikum im Unternehmen",
+      "source": "2.4 Seminar zum Berufspraktikum"
+    },
+    {
+      "value": 2,
+      "target": "4.1 Laufendes Berufspraktikum im Unternehmen",
+      "source": "2.4 Seminar zum Berufspraktikum"
+    },
+    {
+      "value": 2,
+      "target": "5.1 Laufendes Berufspraktikum im Unternehmen",
+      "source": "2.4 Seminar zum Berufspraktikum"
+    },
+    {
+      "value": 2,
+      "target": "6.2 Laufendes Berufspraktikum im Unternehmen",
+      "source": "2.4 Seminar zum Berufspraktikum"
+    },
+    {
+      "value": 2,
+      "target": "1.2 Buchhaltung und Bilanzierung",
+      "source": "2.5 Kostenrechnung"
+    },
+    {
+      "value": 2,
+      "target": "2.9 Mathematik 2",
+      "source": "2.5 Kostenrechnung"
+    },
+    {
+      "value": 2,
+      "target": "3.11 Controlling",
+      "source": "2.5 Kostenrechnung"
+    },
+    {
+      "value": 2,
+      "target": "1.4 Grundlagen der Informatik",
+      "source": "2.6 Betriebssysteme"
+    },
+    {
+      "value": 2,
+      "target": "1.5 Web Grundlagen",
+      "source": "2.6 Betriebssysteme"
+    },
+    {
+      "value": 2,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "2.6 Betriebssysteme"
+    },
+    {
+      "value": 2,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "2.6 Betriebssysteme"
+    },
+    {
+      "value": 2,
+      "target": "1.4 Grundlagen der Informatik",
+      "source": "2.7 Netzwerktechnik 1"
+    },
+    {
+      "value": 2,
+      "target": "1.5 Web Grundlagen",
+      "source": "2.7 Netzwerktechnik 1"
+    },
+    {
+      "value": 2,
+      "target": "1.7 Mathematik 1",
+      "source": "2.7 Netzwerktechnik 1"
+    },
+    {
+      "value": 2,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "2.7 Netzwerktechnik 1"
+    },
+    {
+      "value": 2,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "2.7 Netzwerktechnik 1"
+    },
+    {
+      "value": 2,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "2.8 Selbstorganisation und Zeitmanagement"
+    },
+    {
+      "value": 2,
+      "target": "1.7 Mathematik 1",
+      "source": "2.9 Mathematik 2"
+    },
+    {
+      "value": 2,
+      "target": "2.5 Kostenrechnung",
+      "source": "2.9 Mathematik 2"
+    },
+    {
+      "value": 2,
+      "target": "3.11 Controlling",
+      "source": "2.9 Mathematik 2"
+    },
+    {
+      "value": 2,
+      "target": "1.4 Grundlagen der Informatik",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "1.5 Web Grundlagen",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "1.7 Mathematik 1",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "1.8 Programmieren 1",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "2.10 Programmieren 2"
+    },
+    {
+      "value": 2,
+      "target": "1.10 Projektmanagement",
+      "source": "2.11 IT-Projektmanagement"
+    },
+    {
+      "value": 2,
+      "target": "2.8 Selbstorganisation und Zeitmanagement",
+      "source": "2.11 IT-Projektmanagement"
+    },
+    {
+      "value": 2,
+      "target": "3.9 Software Engineering",
+      "source": "2.11 IT-Projektmanagement"
+    },
+    {
+      "value": 2,
+      "target": "4.8 Requirements Engineering",
+      "source": "2.11 IT-Projektmanagement"
+    },
+    {
+      "value": 2,
+      "target": "4.9 Begleitendes Projekt 2",
+      "source": "2.11 IT-Projektmanagement"
+    },
+    {
+      "value": 3,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "3.1 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 3,
+      "target": "1.5 Web Grundlagen",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "1.7 Mathematik 1",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "1.8 Programmieren 1",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "4.2 Datenbanken 2",
+      "source": "3.2 Datenbanken 1"
+    },
+    {
+      "value": 3,
+      "target": "1.5 Web Grundlagen",
+      "source": "3.3 Netzwerktechnik 2"
+    },
+    {
+      "value": 3,
+      "target": "1.7 Mathematik 1",
+      "source": "3.3 Netzwerktechnik 2"
+    },
+    {
+      "value": 3,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "3.3 Netzwerktechnik 2"
+    },
+    {
+      "value": 3,
+      "target": "1.6 Kommunikation 1",
+      "source": "3.4 General English"
+    },
+    {
+      "value": 3,
+      "target": "4.6 Business English 1",
+      "source": "3.4 General English"
+    },
+    {
+      "value": 3,
+      "target": "5.3 Business English 2",
+      "source": "3.4 General English"
+    },
+    {
+      "value": 3,
+      "target": "1.6 Kommunikation 1",
+      "source": "3.5 Präsentationstechniken"
+    },
+    {
+      "value": 3,
+      "target": "3.6 Begleitendes Projekt 1",
+      "source": "3.5 Präsentationstechniken"
+    },
+    {
+      "value": 3,
+      "target": "4.9 Begleitendes Projekt 2",
+      "source": "3.5 Präsentationstechniken"
+    },
+    {
+      "value": 3,
+      "target": "5.13 Bachelorarbeit 1",
+      "source": "3.5 Präsentationstechniken"
+    },
+    {
+      "value": 3,
+      "target": "6.12 Bachelorarbeit 2",
+      "source": "3.5 Präsentationstechniken"
+    },
+    {
+      "value": 3,
+      "target": "1.3 Grundlagen des Managements",
+      "source": "3.6 Begleitendes Projekt 1"
+    },
+    {
+      "value": 3,
+      "target": "1.10 Projektmanagement",
+      "source": "3.6 Begleitendes Projekt 1"
+    },
+    {
+      "value": 3,
+      "target": "3.5 Präsentationstechniken",
+      "source": "3.6 Begleitendes Projekt 1"
+    },
+    {
+      "value": 3,
+      "target": "1.5 Web Grundlagen",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "1.8 Programmieren 1",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "2.10 Programmieren 2",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "3.2 Datenbanken 1",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "3.9 Software Engineering",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "3.7 Digitale Geschäftsmodelle 1"
+    },
+    {
+      "value": 3,
+      "target": "1.3 Grundlagen des Managements",
+      "source": "3.8 Prozessmanagement 1"
+    },
+    {
+      "value": 3,
+      "target": "1.10 Projektmanagement",
+      "source": "3.8 Prozessmanagement 1"
+    },
+    {
+      "value": 3,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "3.8 Prozessmanagement 1"
+    },
+    {
+      "value": 3,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "3.8 Prozessmanagement 1"
+    },
+    {
+      "value": 3,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "3.9 Software Engineering"
+    },
+    {
+      "value": 3,
+      "target": "1.10 Projektmanagement",
+      "source": "3.9 Software Engineering"
+    },
+    {
+      "value": 3,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "3.9 Software Engineering"
+    },
+    {
+      "value": 3,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "3.9 Software Engineering"
+    },
+    {
+      "value": 3,
+      "target": "1.10 Projektmanagement",
+      "source": "3.10 Wirtschaftsstatistik"
+    },
+    {
+      "value": 3,
+      "target": "1.2 Buchhaltung und Bilanzierung",
+      "source": "3.11 Controlling"
+    },
+    {
+      "value": 3,
+      "target": "1.3 Grundlagen des Managements",
+      "source": "3.11 Controlling"
+    },
+    {
+      "value": 3,
+      "target": "2.5 Kostenrechnung",
+      "source": "3.11 Controlling"
+    },
+    {
+      "value": 3,
+      "target": "2.9 Mathematik 2",
+      "source": "3.11 Controlling"
+    },
+    {
+      "value": 4,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "4.1 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 4,
+      "target": "1.7 Mathematik 1",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "1.8 Programmieren 1",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "3.2 Datenbanken 1",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "4.4 Informationssysteme 1",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "5.4 Informationssysteme 2",
+      "source": "4.2 Datenbanken 2"
+    },
+    {
+      "value": 4,
+      "target": "1.5 Web Grundlagen",
+      "source": "4.3 Markup Languages"
+    },
+    {
+      "value": 4,
+      "target": "1.8 Programmieren 1",
+      "source": "4.3 Markup Languages"
+    },
+    {
+      "value": 4,
+      "target": "4.2 Datenbanken 2",
+      "source": "4.3 Markup Languages"
+    },
+    {
+      "value": 4,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "4.4 Informationssysteme 1"
+    },
+    {
+      "value": 4,
+      "target": "3.2 Datenbanken 1",
+      "source": "4.4 Informationssysteme 1"
+    },
+    {
+      "value": 4,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "4.4 Informationssysteme 1"
+    },
+    {
+      "value": 4,
+      "target": "4.2 Datenbanken 2",
+      "source": "4.4 Informationssysteme 1"
+    },
+    {
+      "value": 4,
+      "target": "4.7 Prozessmanagement 2",
+      "source": "4.4 Informationssysteme 1"
+    },
+    {
+      "value": 4,
+      "target": "1.5 Web Grundlagen",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "1.8 Programmieren 1",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "2.10 Programmieren 2",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "3.2 Datenbanken 1",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "3.9 Software Engineering",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "4.2 Datenbanken 2",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "4.9 Begleitendes Projekt 2",
+      "source": "4.5 Digitale Geschäftsmodelle 2"
+    },
+    {
+      "value": 4,
+      "target": "1.6 Kommunikation 1",
+      "source": "4.6 Business English 1"
+    },
+    {
+      "value": 4,
+      "target": "3.4 General English",
+      "source": "4.6 Business English 1"
+    },
+    {
+      "value": 4,
+      "target": "1.3 Grundlagen des Managements",
+      "source": "4.7 Prozessmanagement 2"
+    },
+    {
+      "value": 4,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "4.7 Prozessmanagement 2"
+    },
+    {
+      "value": 4,
+      "target": "1.10 Projektmanagement",
+      "source": "4.7 Prozessmanagement 2"
+    },
+    {
+      "value": 4,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "4.7 Prozessmanagement 2"
+    },
+    {
+      "value": 4,
+      "target": "4.4 Informationssysteme 1",
+      "source": "4.7 Prozessmanagement 2"
+    },
+    {
+      "value": 4,
+      "target": "1.9 Grundlagen der Wirtschaftsinformatik",
+      "source": "4.8 Requirements Engineering"
+    },
+    {
+      "value": 4,
+      "target": "1.10 Projektmanagement",
+      "source": "4.8 Requirements Engineering"
+    },
+    {
+      "value": 4,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "4.8 Requirements Engineering"
+    },
+    {
+      "value": 4,
+      "target": "3.9 Software Engineering",
+      "source": "4.8 Requirements Engineering"
+    },
+    {
+      "value": 4,
+      "target": "1.10 Projektmanagement",
+      "source": "4.9 Begleitendes Projekt 2"
+    },
+    {
+      "value": 4,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "4.9 Begleitendes Projekt 2"
+    },
+    {
+      "value": 4,
+      "target": "3.5 Präsentationstechniken",
+      "source": "4.9 Begleitendes Projekt 2"
+    },
+    {
+      "value": 4,
+      "target": "3.6 Begleitendes Projekt 1",
+      "source": "4.9 Begleitendes Projekt 2"
+    },
+    {
+      "value": 4,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "4.9 Begleitendes Projekt 2"
+    },
+    {
+      "value": 4,
+      "target": "1.3 Grundlagen des Managements",
+      "source": "4.10 Marketing"
+    },
+    {
+      "value": 4,
+      "target": "1.10 Projektmanagement",
+      "source": "4.10 Marketing"
+    },
+    {
+      "value": 4,
+      "target": "3.5 Präsentationstechniken",
+      "source": "4.10 Marketing"
+    },
+    {
+      "value": 4,
+      "target": "5.13 Bachelorarbeit 1",
+      "source": "4.11 Wissenschaftliches Arbeiten"
+    },
+    {
+      "value": 4,
+      "target": "6.12 Bachelorarbeit 2",
+      "source": "4.11 Wissenschaftliches Arbeiten"
+    },
+    {
+      "value": 5,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "5.1 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 5,
+      "target": "1.6 Kommunikation 1",
+      "source": "5.2 Teamtraining"
+    },
+    {
+      "value": 5,
+      "target": "1.10 Projektmanagement",
+      "source": "5.2 Teamtraining"
+    },
+    {
+      "value": 5,
+      "target": "1.6 Kommunikation 1",
+      "source": "5.3 Business English 2"
+    },
+    {
+      "value": 5,
+      "target": "3.4 General English",
+      "source": "5.3 Business English 2"
+    },
+    {
+      "value": 5,
+      "target": "1.7 Mathematik 1",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "3.2 Datenbanken 1",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "4.2 Datenbanken 2",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "4.4 Informationssysteme 1",
+      "source": "5.4 Informationssysteme 2"
+    },
+    {
+      "value": 5,
+      "target": "1.10 Projektmanagement",
+      "source": "5.5 Qualitätsmanagement"
+    },
+    {
+      "value": 5,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "5.5 Qualitätsmanagement"
+    },
+    {
+      "value": 5,
+      "target": "4.7 Prozessmanagement 2",
+      "source": "5.5 Qualitätsmanagement"
+    },
+    {
+      "value": 5,
+      "target": "5.9 Dienstleistungsmanagement (W2)",
+      "source": "5.5 Qualitätsmanagement"
+    },
+    {
+      "value": 5,
+      "target": "1.7 Mathematik 1",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "1.8 Programmieren 1",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "2.1 Algorithmen und Datenstrukturen - Übung",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "2.2 Algorithmen und Datenstrukturen - Vorlesung",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "2.10 Programmieren 2",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "5.6 Kryptographie"
+    },
+    {
+      "value": 5,
+      "target": "5.6 Kryptographie",
+      "source": "5.7 Identity Management"
+    },
+    {
+      "value": 5,
+      "target": "1.5 Web Grundlagen",
+      "source": "5.8 Servicebasierte Systeme"
+    },
+    {
+      "value": 5,
+      "target": "4.9 Begleitendes Projekt 2",
+      "source": "5.8 Servicebasierte Systeme"
+    },
+    {
+      "value": 5,
+      "target": "1.10 Projektmanagement",
+      "source": "5.9 Dienstleistungsmanagement (W2)"
+    },
+    {
+      "value": 5,
+      "target": "2.11 IT-Projektmanagement",
+      "source": "5.9 Dienstleistungsmanagement (W2)"
+    },
+    {
+      "value": 5,
+      "target": "5.5 Qualitätsmanagement",
+      "source": "5.9 Dienstleistungsmanagement (W2)"
+    },
+    {
+      "value": 5,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "5.10 IT-Infrastructure Management (W1)"
+    },
+    {
+      "value": 5,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "5.10 IT-Infrastructure Management (W1)"
+    },
+    {
+      "value": 5,
+      "target": "1.8 Programmieren 1",
+      "source": "5.11 Software Design (T1)"
+    },
+    {
+      "value": 5,
+      "target": "2.10 Programmieren 2",
+      "source": "5.11 Software Design (T1)"
+    },
+    {
+      "value": 5,
+      "target": "3.2 Datenbanken 1",
+      "source": "5.11 Software Design (T1)"
+    },
+    {
+      "value": 5,
+      "target": "4.2 Datenbanken 2",
+      "source": "5.11 Software Design (T1)"
+    },
+    {
+      "value": 5,
+      "target": "1.5 Web Grundlagen",
+      "source": "5.12 Webentwicklung (T2)"
+    },
+    {
+      "value": 5,
+      "target": "1.8 Programmieren 1",
+      "source": "5.12 Webentwicklung (T2)"
+    },
+    {
+      "value": 5,
+      "target": "2.10 Programmieren 2",
+      "source": "5.12 Webentwicklung (T2)"
+    },
+    {
+      "value": 5,
+      "target": "3.5 Präsentationstechniken",
+      "source": "5.13 Bachelorarbeit 1"
+    },
+    {
+      "value": 5,
+      "target": "4.11 Wissenschaftliches Arbeiten",
+      "source": "5.13 Bachelorarbeit 1"
+    },
+    {
+      "value": 5,
+      "target": "6.12 Bachelorarbeit 2",
+      "source": "5.13 Bachelorarbeit 1"
+    },
+    {
+      "value": 6,
+      "target": "2.4 Seminar zum Berufspraktikum",
+      "source": "6.2 Laufendes Berufspraktikum im Unternehmen"
+    },
+    {
+      "value": 6,
+      "target": "3.4 General English",
+      "source": "6.3 Professional Meetings in English"
+    },
+    {
+      "value": 6,
+      "target": "4.6 Business English 1",
+      "source": "6.3 Professional Meetings in English"
+    },
+    {
+      "value": 6,
+      "target": "5.3 Business English 2",
+      "source": "6.3 Professional Meetings in English"
+    },
+    {
+      "value": 6,
+      "target": "6.5 Fallstudien der Wirtschaftsinformatik",
+      "source": "6.4 IT-Service Management"
+    },
+    {
+      "value": 6,
+      "target": "6.4 IT-Service Management",
+      "source": "6.5 Fallstudien der Wirtschaftsinformatik"
+    },
+    {
+      "value": 6,
+      "target": "1.8 Programmieren 1",
+      "source": "6.6 Grundlagen Mobile Computing"
+    },
+    {
+      "value": 6,
+      "target": "2.10 Programmieren 2",
+      "source": "6.6 Grundlagen Mobile Computing"
+    },
+    {
+      "value": 6,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "6.7 Wirtschafts- und IT-Recht"
+    },
+    {
+      "value": 6,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "6.7 Wirtschafts- und IT-Recht"
+    },
+    {
+      "value": 6,
+      "target": "6.4 IT-Service Management",
+      "source": "6.7 Wirtschafts- und IT-Recht"
+    },
+    {
+      "value": 6,
+      "target": "6.10 IT-Sales (W2)",
+      "source": "6.7 Wirtschafts- und IT-Recht"
+    },
+    {
+      "value": 6,
+      "target": "3.8 Prozessmanagement 1",
+      "source": "6.8 Supply Chain Management (W1)"
+    },
+    {
+      "value": 6,
+      "target": "4.7 Prozessmanagement 2",
+      "source": "6.8 Supply Chain Management (W1)"
+    },
+    {
+      "value": 6,
+      "target": "1.5 Web Grundlagen",
+      "source": "6.9 Sicherheit von Webapplikationen (T2)"
+    },
+    {
+      "value": 6,
+      "target": "5.6 Kryptographie",
+      "source": "6.9 Sicherheit von Webapplikationen (T2)"
+    },
+    {
+      "value": 6,
+      "target": "5.7 Identity Management",
+      "source": "6.9 Sicherheit von Webapplikationen (T2)"
+    },
+    {
+      "value": 6,
+      "target": "3.7 Digitale Geschäftsmodelle 1",
+      "source": "6.10 IT-Sales (W2)"
+    },
+    {
+      "value": 6,
+      "target": "4.5 Digitale Geschäftsmodelle 2",
+      "source": "6.10 IT-Sales (W2)"
+    },
+    {
+      "value": 6,
+      "target": "2.7 Netzwerktechnik 1",
+      "source": "6.11 Cloud Computing (T1)"
+    },
+    {
+      "value": 6,
+      "target": "3.3 Netzwerktechnik 2",
+      "source": "6.11 Cloud Computing (T1)"
+    },
+    {
+      "value": 6,
+      "target": "3.5 Präsentationstechniken",
+      "source": "6.12 Bachelorarbeit 2"
+    },
+    {
+      "value": 6,
+      "target": "4.11 Wissenschaftliches Arbeiten",
+      "source": "6.12 Bachelorarbeit 2"
+    },
+    {
+      "value": 6,
+      "target": "5.13 Bachelorarbeit 1",
+      "source": "6.12 Bachelorarbeit 2"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<head>
+    <style> body { margin: 0; } </style>
+  
+    <script src="//aframe.io/releases/1.0.0/aframe.min.js"></script>
+    <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
+  
+    <script src="//unpkg.com/three-spritetext"></script>
+  
+    <script src="//unpkg.com/3d-force-graph-ar"></script>
+    <!--<script src="../../dist/3d-force-graph-ar.js"></script>-->
+  </head>
+  
+  <body>
+    <div id="3d-graph"></div>
+  
+    <script>
+      const Graph = ForceGraphAR()
+        (document.getElementById('3d-graph'))
+          .jsonUrl('data.json')
+  
+          .nodeAutoColorBy('group')
+          .nodeThreeObject(node => {
+            const sprite = new SpriteText(node.id);
+            sprite.color = node.color;
+            sprite.textHeight = 9;
+            return sprite;
+          })
+  
+          .glScale(150)
+          .yOffset(2)
+          .nodeRelSize(5)
+          .nodeOpacity(0.9)
+          .linkOpacity(0.4)
+          .linkColor(() => 'darkgrey');
+  
+    </script>
+  </body>
